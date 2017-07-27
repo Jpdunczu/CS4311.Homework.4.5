@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		E9CA68021F2A5D8E0043060E /* CS4311.Homework.4.5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CS4311.Homework.4.5; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9CA68051F2A5D8E0043060E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E9CA680C1F2A5E0A0043060E /* CS4311.Homework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CS4311.Homework.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				E9CA68051F2A5D8E0043060E /* main.cpp */,
+				E9CA680C1F2A5E0A0043060E /* CS4311.Homework.h */,
 			);
 			path = CS4311.Homework.4.5;
 			sourceTree = "<group>";
